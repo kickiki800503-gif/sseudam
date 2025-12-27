@@ -1,0 +1,7 @@
+{
+  "name": "쓰담 (Sseudam)",
+  "description": "강아지를 쓰다듬는 따뜻한 손길처럼, 가족 모두가 함께하는 공동 양육 플랫폼 '쓰담'. 관계 중심의 반려생활을 시작하세요.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
